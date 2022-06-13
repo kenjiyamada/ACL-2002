@@ -1,0 +1,16 @@
+TM lines: lines[0]=0, lines[1]=4, lines[2]=7, lines[3]=11, 
+CFG size = 6
+V 1 -> N V A 
+Decoder Results:
+Result 1: juice apple is expensive (3.44418) [TM=3.44418 LM=0]
+Result 2: apple juice is expensive (3.74838) [TM=3.74838 LM=0]
+Result 3: juice mango is expensive (4.54279) [TM=4.54279 LM=0]
+Result 4: mango juice is expensive (4.84699) [TM=4.84699 LM=0]
+Result 5: juice apple is cheap (4.94826) [TM=4.94826 LM=0]
+Result 6: juice orange is expensive (5.23594) [TM=5.23594 LM=0]
+Result 7: apple juice is cheap (5.25246) [TM=5.25246 LM=0]
+Result 8: orange juice is expensive (5.54014) [TM=5.54014 LM=0]
+Result 9: juice mango is cheap (6.04687) [TM=6.04687 LM=0]
+Result 10: mango juice is cheap (6.35107) [TM=6.35107 LM=0]
+Result 11: juice orange is cheap (6.74001) [TM=6.74001 LM=0]
+Result 12: orange juice is cheap (7.04421) [TM=7.04421 LM=0]

@@ -1,0 +1,16 @@
+TOP -> V
+TOP -> N
+N -> A N
+N -> N N
+V -> N V A
+V -> N V N
+N -> E_john
+N -> E_orange
+N -> E_juice
+N -> E_apple
+N -> E_mango
+A -> E_fresh
+A -> E_expensive
+A -> E_cheap
+V -> E_drinks
+V -> E_is

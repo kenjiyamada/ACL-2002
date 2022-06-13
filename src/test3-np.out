@@ -1,0 +1,10 @@
+TM lines: lines[0]=4307, lines[1]=486, lines[2]=161, lines[3]=3463, 
+CFG size = 4
+VB 1 -> VB TO 
+Verbose: 0
+cfgFile: D2/mus4.peg, tmFile: D2/je2k.20.out, lmFile: 
+Beam: 5
+minT: 0.03, minN: 0.05, minR: 0.7, minI: 0.2
+Decoder Results:
+Result 1: he adores listening to music (16.4454) [TM=16.4454 LM=0]
+Result 2: he adores to listening to music (17.1701) [TM=17.1701 LM=0]

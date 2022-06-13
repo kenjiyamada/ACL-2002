@@ -1,0 +1,51 @@
+
+
+
+ProbR:
+A_N	1 0 
+
+N_N	0.424531 0.575469 
+
+N_V_A	3.02206e-204 1 0 0 5.56532e-249 0 
+
+N_V_N	3.62405e-297 1 4.83583e-287 8.7514e-278 4.64029e-215 0 
+
+ProbN:
+N-A	1 0 0 
+
+N-N	1 5.22696e-49 1.94012e-51 
+
+TOP-N	1 0 0 
+
+TOP-V	1 2.96917e-248 7.76232e-77 
+
+V-A	1 1.75235e-191 1.52023e-46 
+
+V-N	7.76963e-47 1 2.2976e-31 
+
+V-V	1 4.93598e-242 6.72724e-49 
+
+ProbT:
+NULL	atarasii 0 da 8.60589e-47 desu 4.06329e-47 ga 0.212383 ha 0.195905 jon 1.06399e-46 juusu 4.95126e-08 kajuu 8.56356e-07 kouka 9.09781e-17 mari 5.97213e-51 mazui 0 mikan 0.479338 ringo 0.0206612 taberu 1.09798e-18 wo 0.0917127 yasui 7.44366e-17 
+
+apple	atarasii 0 da 0 desu 0 ga 0 ha 0 jon 0 juusu 0.00187733 kajuu 9.1468e-16 kouka 0 mari 0 mazui 0 mikan 0.0981249 ringo 0.899998 taberu 0 wo 0 yasui 0 
+
+cheap	atarasii 0 da 3.68332e-207 desu 1.43888e-210 ga 6.52796e-120 ha 1.46554e-115 jon 0 juusu 1.0193e-264 kajuu 7.46112e-257 kouka 0.2 mari 0 mazui 0 mikan 1.11297e-248 ringo 0 taberu 0 wo 3.6538e-122 yasui 0.8 
+
+drinks	atarasii 0 da 0 desu 0 ga 8.21613e-242 ha 5.93406e-242 jon 2.04092e-279 juusu 4.06739e-312 kajuu 1.54467e-312 kouka 0 mari 8.54731e-278 mazui 0 mikan 1.77338e-310 ringo 2.51128e-305 taberu 1 wo 6.57751e-243 yasui 0 
+
+expensive	atarasii 0 da 6.98026e-217 desu 6.04043e-204 ga 1.35804e-121 ha 4.45219e-115 jon 0 juusu 2.97571e-253 kajuu 6.60456e-256 kouka 0.9 mari 0 mazui 0 mikan 6.69801e-253 ringo 1.0082e-262 taberu 0 wo 5.0573e-121 yasui 0.1 
+
+fresh	atarasii 0.8 da 0 desu 0 ga 0 ha 0 jon 0 juusu 0 kajuu 0 kouka 0 mari 0 mazui 0.2 mikan 0 ringo 0 taberu 0 wo 0 yasui 0 
+
+is	atarasii 0 da 0.7 desu 0.3 ga 0 ha 7.19788e-315 jon 0 juusu 0 kajuu 0 kouka 2.55943e-207 mari 0 mazui 0 mikan 0 ringo 0 taberu 0 wo 2.39325e-320 yasui 3.0195e-204 
+
+john	atarasii 0 da 0 desu 0 ga 2.48365e-78 ha 7.04693e-79 jon 0.7 juusu 1.02051e-234 kajuu 8.92337e-236 kouka 0 mari 0.3 mazui 0 mikan 8.7543e-233 ringo 2.02516e-233 taberu 0 wo 1.92392e-76 yasui 0 
+
+juice	atarasii 0 da 0 desu 0 ga 6.19852e-43 ha 1.36858e-41 jon 0 juusu 0.499531 kajuu 0.5 kouka 0 mari 0 mazui 0 mikan 0.000468889 ringo 5.68616e-07 taberu 0 wo 1.14488e-45 yasui 0 
+
+mango	atarasii 0 da 0 desu 0 ga 6.56509e-33 ha 1.3529e-31 jon 0 juusu 1.05532e-09 kajuu 1.34473e-07 kouka 0 mari 0 mazui 0 mikan 0.7 ringo 0.3 taberu 0 wo 1.22146e-35 yasui 0 
+
+orange	atarasii 0 da 0 desu 0 ga 1.91906e-31 ha 1.12399e-31 jon 0 juusu 1.58322e-07 kajuu 2.22807e-08 kouka 0 mari 0 mazui 0 mikan 0.85 ringo 0.15 taberu 0 wo 8.42814e-32 yasui 0 
+
+Best Alignment
